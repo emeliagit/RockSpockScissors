@@ -1,0 +1,2 @@
+# RockSpockScissors
+Codeacademy's C++ For Programmers course tasks those taking the course to make the game of "Rock Paper Scissors" in C++, but with the twist being that it's slightly more complex, using the game used in a one-off joke in The Big Bang Theory, it being Rock, Paper, Scissors, Lizard, Spock. It's essentially "Rock Paper Scissors" but with more variables so as to minimize ties. I did it, now I'm putting it up on my GitHub page.
